@@ -64,7 +64,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string>_parallaxContainer</string>
+						<string></string>
 					</dict>
 					<dict>
 						<key>name</key>
