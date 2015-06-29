@@ -36,14 +36,14 @@
     [character flap];
 }
 
--(void)addObstacle
-{
-    
-}
+//-(void)addObstacle
+//{
+//    
+//}
 
--(void)showScore
-{
-    
-}
+//-(void)showScore
+//{
+//    
+//}
 
 @end
